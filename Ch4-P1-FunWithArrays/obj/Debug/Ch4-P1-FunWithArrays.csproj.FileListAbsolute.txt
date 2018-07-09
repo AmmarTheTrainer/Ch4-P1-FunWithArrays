@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\GitHub\Ch4-P1-FunWithArrays\Ch4-P1-FunWithArrays\bin\Debug\Ch4-P1-FunWithArrays.exe.config
+C:\Users\Lenovo\Documents\GitHub\Ch4-P1-FunWithArrays\Ch4-P1-FunWithArrays\bin\Debug\Ch4-P1-FunWithArrays.exe
+C:\Users\Lenovo\Documents\GitHub\Ch4-P1-FunWithArrays\Ch4-P1-FunWithArrays\bin\Debug\Ch4-P1-FunWithArrays.pdb
+C:\Users\Lenovo\Documents\GitHub\Ch4-P1-FunWithArrays\Ch4-P1-FunWithArrays\obj\Debug\Ch4-P1-FunWithArrays.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Ch4-P1-FunWithArrays\Ch4-P1-FunWithArrays\obj\Debug\Ch4-P1-FunWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Ch4-P1-FunWithArrays\Ch4-P1-FunWithArrays\obj\Debug\Ch4-P1-FunWithArrays.exe
+C:\Users\Lenovo\Documents\GitHub\Ch4-P1-FunWithArrays\Ch4-P1-FunWithArrays\obj\Debug\Ch4-P1-FunWithArrays.pdb

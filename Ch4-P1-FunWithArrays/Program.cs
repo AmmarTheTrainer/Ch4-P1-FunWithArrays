@@ -11,6 +11,7 @@ namespace Ch4_P1_FunWithArrays
         static void Main(string[] args)
         {
             Console.WriteLine(" chapter 4 , project 1 , FunWithArrays");
+            Console.ReadLine();
         }
     }
 }
